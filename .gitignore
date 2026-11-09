@@ -1,0 +1,8 @@
+venv/
+.env
+*.log
+paper_state.json
+paper_trades.csv
+paper_trades.old.csv
+__pycache__/
+.cache/
